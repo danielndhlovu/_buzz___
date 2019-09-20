@@ -1,0 +1,1 @@
+xcopy "C:\Users\DANIEL\Documents\PHP Class builder\buzz\*" "C:\xampp\htdocs\C0D3buzz\app\db" /E /Y
